@@ -24,7 +24,7 @@
 текст и ключ, который был использован при зашифровании. 
 Криптограмма=ойюклзёщлвш.
 
-![Screenshot_1](https://user-images.githubusercontent.com/92585647/168517946-3941311f-d36d-4dd8-be78-4775559e4e2f.png)
+![изображение](https://user-images.githubusercontent.com/92585647/168518225-eb0ec273-11b4-4ff9-9254-ef558e5aad0d.png)
 
 
 
