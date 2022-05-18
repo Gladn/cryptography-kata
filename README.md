@@ -50,7 +50,7 @@ n=3, S=25031476.
 Приведите все промежуточные действия (i, j, перестановку).
 n=3, L=3, K0=0, K1=4, K2=4.
 
-![изображение](https://user-images.githubusercontent.com/92585647/168973578-c8094ac1-deaa-40fe-bcc4-774783c11e57.png)
+![изображение](https://user-images.githubusercontent.com/92585647/168973840-41918b64-0803-46ad-b26e-6d8a6796e928.png)
 
 
 
